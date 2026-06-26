@@ -1,0 +1,10 @@
+{
+  "name": "Date Hub",
+  "short_name": "Date Hub",
+  "description": "Baobao & Michal's date idea hub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF3EA",
+  "theme_color": "#FBF3EA",
+  "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
